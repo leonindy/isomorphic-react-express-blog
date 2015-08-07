@@ -1,0 +1,16 @@
+{
+  "name": "isomorphic-react-express-blog",
+  "version": "1.0.0",
+  "description": "isomorphic blog with react flummox express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "react",
+    "isomorphic"
+  ],
+  "author": "eisneim <eisneim1@sina.com>",
+  "license": "MIT"
+}
